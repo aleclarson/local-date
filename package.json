@@ -1,0 +1,8 @@
+{
+  "name": "local-date",
+  "version": "0.0.1",
+  "dependencies": {
+    "noop": "aleclarson/noop#0.0.1",
+    "wrap-defaults": "^0.0.1"
+  }
+}
